@@ -1,12 +1,12 @@
-# [MONDESIR Portfolio Grayscale](https://mondesirm.github.io/grayscale)
+# [MONDESIR Portfolio](https://mondesirm.github.io/portfolio)
 
 Il s'agit de mon portfolio qui utilise le thème [Grayscale](https://startbootstrap.com/template-overviews/grayscale/) (sous licence MIT) créé par [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
 
-[![Grayscale Preview](https://mondesirm.github.io/grayscale/img/mockuper.png)](https://mondesirm.github.io/grayscale)
+[![Grayscale Preview](https://mondesirm.github.io/portfolio/img/mockuper.png)](https://mondesirm.github.io/portfolio)
 
-**[Voir le portfolio](https://mondesirm.github.io/grayscale)**
+**[Voir le portfolio](https://mondesirm.github.io/portfolio)**
 **[Voir l'original](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
 
 ## Status
