@@ -4,11 +4,7 @@ Il s'agit de mon portfolio qui utilise le thème [Grayscale](https://startbootst
 
 ## Preview
 
-<<<<<<< HEAD
 [![Grayscale Preview](https://mondesirm.github.io/grayscale/img/mockuper.png)](https://mondesirm.github.io/portfolio)
-=======
-[![Grayscale Preview](https://mondesirm.github.io/portfolio/img/mockuper.png)](https://mondesirm.github.io/portfolio)
->>>>>>> origin/master
 
 **[Voir le portfolio](https://mondesirm.github.io/portfolio)**
 **[Voir l'original](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
