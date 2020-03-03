@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	var prevScrollpos = window.pageYOffset;
 	var skillsScrollTop = document.getElementById('skills').getBoundingClientRect().top;
 	var bodyBottom = document.body.offsetHeight;
-	var cardsScrollTop = document.getElementById('cards').getBoundingClientRect().top;
+	var cardsScrollTop = document.getElementById('documents').getBoundingClientRect().top;
 	// console.log("Skills Top: " + skillsScrollpos);
 	window.onscroll = function() {
 		var currentScrollPos = window.pageYOffset;
