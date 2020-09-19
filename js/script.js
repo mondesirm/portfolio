@@ -1,7 +1,11 @@
+// Remove animation after first visit
+if (document.cookie != 'visited=true') { document.cookie = 'visited=true'; }
+else { document.getElementById('splash-overlay').remove(); document.getElementById('welcome').remove(); }
+
 document.addEventListener('DOMContentLoaded', function() {
 	// Typed JS
 	new Typed('.typed1', {
-		strings: ['HTML', 'CSS', 'JAVASCRIPT', 'PHP', 'SQL', 'JAVA'],
+		strings: ['HTML', 'CSS', 'JS/jQuery/Ajax', 'PHP', 'SQL', 'JAVA'],
 		typeSpeed: 20,
 		backSpeed: 20,
 		backDelay: 1000,
@@ -10,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	});
 
 	new Typed('.typed2', {
-		strings: ["Sublime Text 3", "Git", "Wordpress", "Eclipse", "Android Studio", "Code::Blocks", "WAMP / MAMP", "Laragon", "Virtual Box / VM"],
+		strings: ["Sublime Text 3", "PhpStorm / VSCode", "Git", "WordPress", "Eclipse", "Android Studio", "Code::Blocks", "WAMP / MAMP", "Laragon", "Virtual Box / VM"],
 		typeSpeed: 20,
 		backSpeed: 20,
 		backDelay: 1000,
