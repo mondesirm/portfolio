@@ -53,6 +53,8 @@
 	.img-fluid:hover { transform: scale(1.1); }
 	.img-fluid:hover + div { z-index: -1; }
 
+	#svg-logo-header-def .logo-header-2 { fill: #00eaff; }
+
 	.popup:hover .img:hover { transform: translateY(-23%) scale(1.5); }
 
 	.crop { height: 550px; overflow: hidden; }
