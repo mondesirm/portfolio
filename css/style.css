@@ -1,6 +1,6 @@
 /* CURSORS */
-	* { cursor: url('../img/icons/cursor.png') 0 0, auto !important; }
-	a, button, img { cursor: url('../img/icons/cursor2.png') 10 0, auto !important; }
+	* { cursor: url('../media/icons/cursor.png') 0 0, auto !important; }
+	a, button, img, #repos, #followers, #following { cursor: url('../media/icons/cursor2.png') 10 0, auto !important; }
 
 /* SCROLLBAR */
 	::-webkit-scrollbar { background-color: #1c1e1f; color: #c5c1b9; }
@@ -10,6 +10,10 @@
 	::-webkit-scrollbar-thumb { background-color: #2a2c2e; }
 
 	::selection { background-color: #64a19d; color: white !important; }
+
+/* FADING */
+	section { transition: all 1s ease; }
+	.hide { opacity: .2;	}
 
 /* POPUP */
 	.popup {
@@ -52,8 +56,6 @@
 
 	.img-fluid:hover { transform: scale(1.1); }
 	.img-fluid:hover + div { z-index: -1; }
-
-	#svg-logo-header-def .logo-header-2 { fill: #00eaff; }
 
 	.popup:hover .img:hover { transform: translateY(-23%) scale(1.5); }
 
